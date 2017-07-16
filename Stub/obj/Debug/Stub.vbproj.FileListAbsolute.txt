@@ -1,0 +1,10 @@
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\bin\Debug\Stub.exe.config
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\bin\Debug\Stub.exe
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\bin\Debug\Stub.pdb
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\bin\Debug\Stub.xml
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\obj\Debug\Stub.vbprojResolveAssemblyReference.cache
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\obj\Debug\Stub.Resources.resources
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\obj\Debug\Stub.vbproj.GenerateResource.Cache
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\obj\Debug\Stub.exe
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\obj\Debug\Stub.xml
+c:\users\darkwin\documents\visual studio 2015\Projects\WindowsApplication3\Stub\obj\Debug\Stub.pdb
